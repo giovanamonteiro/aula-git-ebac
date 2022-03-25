@@ -1,0 +1,11 @@
+Dados do aluno
+
+-Primeiro Nome: Giovana
+-Profissão: Analista de Qualidade e Tester
+-Cidade: São João Batista
+-O que faz nas horas vaga: Gosto muito de olhar séries e cuidar das minhas plantinhas. 
+-Feedback sobre o curso Qualidade de Software: Estou gostando bastante, está dentro das minhas expectativas.
+-Feedback sobre a plataforma de estudo da EBAC: Quando iniciei ainda estava na antiga, agora está muito mais intuitivo e agradável visualmente.
+
+
+
